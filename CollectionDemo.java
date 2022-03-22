@@ -10,8 +10,8 @@ class CollectionDemo {
 		// Creating instances of the array,
 		// vector and hashtable
 		int arr[] = new int[] { 1, 2, 3, 4 };
-		Vector<Integer> v = new Vector();
-		Hashtable<Integer, String> h = new Hashtable();
+		Vector<Integer> v = new Vector<>();
+		Hashtable<Integer, String> h = new Hashtable<>();
 
 		// Adding the elements into the
 		// vector
@@ -39,3 +39,4 @@ class CollectionDemo {
 		// and hashtable elements using get()
 	}
 }
+
